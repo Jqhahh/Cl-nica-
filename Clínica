@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica de Dependência Química</title>
+    <!-- Adicione links para seus estilos CSS aqui -->
+    <!-- <link rel="stylesheet" href="styles.css"> -->
+</head>
+<body>
+    <header>
+        <h1>Clínica de Dependência Química</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre Nós</a></li>
+                <li><a href="#tratamento">Tratamento</a></li>
+                <li><a href="#equipe">Equipe</a></li>
+                <li><a href="#depoimentos">Depoimentos</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="sobre">
+        <h2>Sobre Nós</h2>
+        <p>Oferecemos tratamento especializado para dependentes químicos. Nossa equipe multidisciplinar está comprometida com a recuperação e bem-estar dos pacientes.</p>
+    </section>
+
+    <section id="tratamento">
+        <h2>Tratamento</h2>
+        <p>Nossos serviços incluem:</p>
+        <ul>
+            <li>Desintoxicação segura</li>
+            <li>Aconselhamento individual e em grupo</li>
+            <li>Terapia comportamental</li>
+            <li>Reabilitação física e mental</li>
+            <li>Programas de prevenção de recaída</li>
+            <!-- Adicione mais detalhes sobre os serviços oferecidos -->
+        </ul>
+    </section>
+
+    <section id="equipe">
+        <h2>Equipe</h2>
+        <p>Nossa equipe é formada por:</p>
+        <ul>
+            <li>Médicos especialistas em dependência química</li>
+            <li>Psicólogos clínicos</li>
+            <li>Assistentes sociais</li>
+            <li>Enfermeiros</li>
+            <!-- Adicione mais informações sobre os membros da equipe -->
+        </ul>
+    </section>
+
+    <section id="depoimentos">
+        <h2>Depoimentos</h2>
+        <p>Veja o que nossos pacientes têm a dizer:</p>
+        <blockquote>
+            "A clínica mudou minha vida. Sou grato pela equipe dedicada e pelo apoio contínuo." - João
+        </blockquote>
+        <!-- Adicione mais depoimentos -->
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Entre em contato conosco:</p>
+        <ul>
+            <li>Telefone: (XX) XXXX-XXXX</li>
+            <li>Email: contato@clinicadependencia.com.br</li>
+            <!-- Adicione mais informações de contato -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2024 Clínica de Dependência Química</p>
+    </footer>
+
+    <!-- Adicione scripts JavaScript aqui, se necessário -->
+    <!-- <script src="scripts.js"></script> -->
+</body>
+</html>
